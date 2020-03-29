@@ -1,2 +1,3 @@
-# python-temel-projeler
- Başlangıç projelerim
+# python-simple-projects
+
+Simple python projects created for practice. 
